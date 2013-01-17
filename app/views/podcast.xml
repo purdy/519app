@@ -1,0 +1,7 @@
+<Alloy>
+	<Window>
+		<Label>This is the podcast window...</Label>
+		<TableView id="podcast_table">
+		</TableView>
+	</Window>
+</Alloy>

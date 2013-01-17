@@ -1,12 +1,16 @@
 <Alloy>
 	<Window>
-		<DashboardView id="dashboard">
-			<DashboardItem onClick="dashboard_click" class="dbitem" id="camera" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Camera" />
-			<DashboardItem onClick="dashboard_click" class="dbitem" id="podcast" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Podcasts" />
-			<DashboardItem onClick="dashboard_click" class="dbitem" id="blog" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Blog" />
-			<DashboardItem onClick="dashboard_click" class="dbitem" id="news" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="News/Twitter Feed" />
-			<DashboardItem onClick="dashboard_click" class="dbitem" id="pics" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Pics/Video" />
-			<DashboardItem onClick="dashboard_click" class="dbitem" id="calendar" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Events Calendar" />
-		</DashboardView>
+		<NavigationGroup id="navgroup" platform="ios">
+			<Window title="519 App">
+				<DashboardView id="dashboard">
+					<DashboardItem onClick="dashboard_click" class="dbitem" id="camera" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Camera" />
+					<DashboardItem onClick="dashboard_click" class="dbitem" id="podcast" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Podcasts" />
+					<DashboardItem onClick="dashboard_click" class="dbitem" id="blog" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Blog" />
+					<DashboardItem onClick="dashboard_click" class="dbitem" id="news" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="News/Twitter Feed" />
+					<DashboardItem onClick="dashboard_click" class="dbitem" id="pics" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Pics/Video" />
+					<DashboardItem onClick="dashboard_click" class="dbitem" id="calendar" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Events Calendar" />
+				</DashboardView>
+			</Window>
+		</NavigationGroup>
 	</Window>
 </Alloy>

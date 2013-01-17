@@ -6,11 +6,11 @@ function Controller() {
         id: "camera"
     }), "Window", null);
     $.addTopLevelView($.__views.camera);
-    $.__views.__alloyId0 = A$(Ti.UI.createLabel({
+    $.__views.__alloyId2 = A$(Ti.UI.createLabel({
         text: "This is the camera window...",
-        id: "__alloyId0"
+        id: "__alloyId2"
     }), "Label", $.__views.camera);
-    $.__views.camera.add($.__views.__alloyId0);
+    $.__views.camera.add($.__views.__alloyId2);
     exports.destroy = function() {};
     _.extend($, $.__views);
     _.extend($, exports);

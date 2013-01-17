@@ -21,13 +21,11 @@ function Sync(model, method, opts) {
         model.set(obj);
         resp = model.toJSON();
     } else if (method === "create" || method === "update") {
-        var newId = model.get("id") || guid();
-        model.set({
-            id: newId
-        }, {
-            silent: !0
-        });
-        TAP.setObject(prefix + "-" + newId, model.toJSON() || {});
+        if (!model.id) {
+            model.id = guid();
+            model.set(model.idAttribute, model.id);
+        }
+        TAP.setObject(prefix + "-" + model.id, model.toJSON() || {});
         resp = model.toJSON();
     } else if (method === "delete") {
         TAP.removeProperty(prefix + "-" + model.get("id"));
