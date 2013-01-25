@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="blog_view_window">
+		<WebView id="blog_view"></WebView>
+	</Window>
+</Alloy>
