@@ -1,5 +1,13 @@
 <Alloy>
-	<Window>
-		<Label>This is the podcast item view</Label>
+	<Window id="podcast_item_window">
+		<Label id="title"></Label>
+		<Label id="description"></Label>
+		<!-- <ProgessBar id="pb" min="0" max="100" value="0" /> -->
+		<ButtonBar id="bb1">
+			<Labels>
+				<Label>Restart</Label>
+				<Label>Play/Pause</Label>
+			</Labels>
+		</ButtonBar>
 	</Window>
 </Alloy>

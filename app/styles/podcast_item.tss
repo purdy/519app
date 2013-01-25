@@ -1,3 +1,15 @@
 ".container": {
 	backgroundColor: "white"
 }
+
+"#title": { top: "50" }
+
+"#description": { top: "100" }
+
+"#pb": { 
+	top: "150",
+	width: "auto",
+	height: "auto"
+}
+
+"#bb1": { top: "350" }

@@ -12,12 +12,26 @@ xhr.onload = function() {
 			var item_date = "Jan 10, 2013";
 			title += ' - ' + item_date;
 			var description = item.getElementsByTagName("itunes:summary").item(0).text;
+			// var itunes_duration = item.getElementsByTagName( "itunes:duration" ).item(0).text;
+			// var time_units = itunes_duration.split( ':' );
+			// if ( time_units.length == 3 ) {
+		 		// total_seconds = (time_units[0]+0)*60*60 + (+time_units[1]+0)*60 + (+time_units[2]+0);
+			// }
+			// else {
+				// total_seconds = (+time_units[1]+0)*60 + (+time_units[2]+0);
+			// }
+			// Ti.API.info( "got total seconds clocked in at " + total_seconds );
 			var guid = item.getElementsByTagName("guid").item(0).text;
 			var url = item.getElementsByTagName("enclosure").item(0).getAttribute("url");
 			var table_row = Ti.UI.createTableViewRow( {
 				title: title,
 				hasDetail: true,
-				podcastGuid: guid,
+				podcast_data: {
+					url: url,
+					title: title,
+					description: description
+					// duration: "7200"
+				}
 			} );
 			data.push( table_row );
 			// var podcast_item = Alloy.createModel( 'podcast', {
@@ -39,7 +53,9 @@ xhr.send();
 function open_podcast_item( e ) {
 	Ti.API.info( "You clicked row # " + e.index );
 	Ti.API.info( "Row data: " + JSON.stringify( e.rowData ) );
-	var controller = Alloy.createController( 'podcast_item' );
+	Ti.API.info( "Podcast data: " + JSON.stringify( e.rowData.podcast_data ) );
+	var arg = { podcast_data: e.rowData.podcast_data };
+	var controller = Alloy.createController( 'podcast_item', arg );
 	Alloy.CFG.navgroup.open( controller.getView() );
 }
 
