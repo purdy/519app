@@ -2,7 +2,9 @@
 	<Window id="podcast_item_window">
 		<Label id="title"></Label>
 		<Label id="description"></Label>
-		<!-- <ProgessBar id="pb" min="0" max="100" value="0" /> -->
+		<Slider id="ps" top="10" width="250" height="auto" min="0" />
+		<!-- <ProgressBar id="pb" top="10" width="250" height="auto" min="0" max="10" value="0" color="#fff" /> -->
+
 		<ButtonBar id="bb1">
 			<Labels>
 				<Label>Restart</Label>

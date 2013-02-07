@@ -3,12 +3,12 @@
 		<NavigationGroup id="navgroup" platform="ios">
 			<Window title="519 App">
 				<DashboardView id="dashboard">
-					<DashboardItem onClick="dashboard_click" class="dbitem" id="camera" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Camera" />
-					<DashboardItem onClick="dashboard_click" class="dbitem" id="podcast" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Podcasts" />
-					<DashboardItem onClick="dashboard_click" class="dbitem" id="blog" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Blog" />
-					<DashboardItem onClick="dashboard_click" class="dbitem" id="news" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="News/Twitter Feed" />
-					<DashboardItem onClick="dashboard_click" class="dbitem" id="pics" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Pics/Video" />
-					<DashboardItem onClick="dashboard_click" class="dbitem" id="calendar" image="images/apple_logo.jpg" selectedImage="images/apple_logo.jpg" label="Events Calendar" />
+					<DashboardItem onClick="dashboard_click" class="dbitem" id="camera" image="images/camera.png" selectedImage="images/camera_selected.png" label="Camera" />
+					<DashboardItem onClick="dashboard_click" badge="8" class="dbitem" id="podcast" image="images/podcast.png" selectedImage="images/podcast_selected.png" label="Podcasts" />
+					<DashboardItem onClick="dashboard_click" class="dbitem" id="blog" image="images/blog.png" selectedImage="images/blog_selected.png" label="Blog" />
+					<DashboardItem onClick="dashboard_click" class="dbitem" id="news" image="images/news.png" selectedImage="images/news_selected.png" label="News/Twitter Feed" />
+					<DashboardItem onClick="dashboard_click" class="dbitem" id="pics" image="images/pictures.png" selectedImage="images/pictures_selected.png" label="Pics/Video" />
+					<DashboardItem onClick="dashboard_click" class="dbitem" id="calendar" image="images/calendar.png" selectedImage="images/calendar_selected.png" label="Events Calendar" />
 				</DashboardView>
 			</Window>
 		</NavigationGroup>
