@@ -1,9 +1,9 @@
-#appname: 519 - alloy
-#appid: org.apexumc.app519
-#type: mobile
-#guid: dac30319-d52c-45e2-a193-cd0556d51125
-#version: 1.0
-#publisher: not specified
-#url: not specified
-#image: appicon.png
-#desc: not specified
+#appname:519 - alloy
+#appid:com.519church.app
+#type:mobile
+#guid:dac30319-d52c-45e2-a193-cd0556d51125
+#version:1.0
+#publisher:jasonpurdy
+#url:http://519church.org
+#image:appicon.png
+#desc:not specified

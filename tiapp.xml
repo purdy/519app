@@ -6,7 +6,7 @@
     <property name="acs-oauth-secret-development" type="string">xh6TwShN67yA2s6KD5Ig1usSlfzGPjBy</property>
     <property name="acs-oauth-key-development" type="string">0RqyWbXq1lmU4mc4R8UXVHlRjII4Wjna</property>
     <property name="acs-api-key-development" type="string">U5pUnJvLyzR6hTo0FEYvaxlZ9odXvwRd</property>
-    <id>org.apexumc.app519</id>
+    <id>com.519church.app</id>
     <name>519 - alloy</name>
     <version>1.0</version>
     <publisher>jasonpurdy</publisher>

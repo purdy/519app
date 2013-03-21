@@ -17,7 +17,7 @@ xhr.onload = function() {
 	try {
 		var doc = this.responseXML.documentElement;
 		var items = doc.getElementsByTagName("item");
-		Ti.API.info( "retrieved " + items.length + " items in the podcast feed" );
+		Ti.API.info( "retrieved " + items.length + " items in the twitter feed" );
 		var data = [];
 		var news_collection = Alloy.createCollection( 'news_item' );
 		news_collection.fetch();
