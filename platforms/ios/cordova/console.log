@@ -1,0 +1,5 @@
+2014-04-15 23:28:33.563 519App[3871:a0b] Multi-tasking -> Device: YES, App: YES
+2014-04-15 23:28:33.576 519App[3871:a0b] Unlimited access to network resources
+2014-04-15 23:28:33.709 519App[3871:a0b] Resetting plugins due to page load.
+2014-04-15 23:28:33.821 519App[3871:a0b] Finished load of: file:///Users/jasonpurdy/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AF3C68C8-634E-4674-BF97-964575CC3B05/519App.app/www/index.html
+2014-04-15 23:28:33.916 519App[3871:a0b] Received Event: deviceready
