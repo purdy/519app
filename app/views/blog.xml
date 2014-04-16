@@ -1,6 +1,0 @@
-<Alloy>
-	<Window title="519 Blog">
-		<TableView id="blog_table">
-		</TableView>
-	</Window>
-</Alloy>

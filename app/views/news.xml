@@ -1,6 +1,0 @@
-<Alloy>
-	<Window title="News">
-		<TableView id="twitter_table">
-		</TableView>
-	</Window>
-</Alloy>
