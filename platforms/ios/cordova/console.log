@@ -3,3 +3,53 @@
 2014-04-15 23:28:33.709 519App[3871:a0b] Resetting plugins due to page load.
 2014-04-15 23:28:33.821 519App[3871:a0b] Finished load of: file:///Users/jasonpurdy/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AF3C68C8-634E-4674-BF97-964575CC3B05/519App.app/www/index.html
 2014-04-15 23:28:33.916 519App[3871:a0b] Received Event: deviceready
+2014-04-15 23:32:36.519 519App[4087:a0b] Multi-tasking -> Device: YES, App: YES
+2014-04-15 23:32:36.534 519App[4087:a0b] Unlimited access to network resources
+2014-04-15 23:32:36.645 519App[4087:a0b] Resetting plugins due to page load.
+2014-04-15 23:32:36.770 519App[4087:a0b] Finished load of: file:///Users/jasonpurdy/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AF3C68C8-634E-4674-BF97-964575CC3B05/519App.app/www/index.html
+2014-04-15 23:32:36.834 519App[4087:a0b] Received Event: deviceready
+2014-04-15 23:35:20.820 519App[4247:a0b] Multi-tasking -> Device: YES, App: YES
+2014-04-15 23:35:20.831 519App[4247:a0b] Unlimited access to network resources
+2014-04-15 23:35:20.986 519App[4247:a0b] Resetting plugins due to page load.
+2014-04-15 23:35:21.078 519App[4247:a0b] Finished load of: file:///Users/jasonpurdy/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AF3C68C8-634E-4674-BF97-964575CC3B05/519App.app/www/index.html
+2014-04-15 23:35:21.184 519App[4247:a0b] Received Event: deviceready
+2014-04-15 23:40:09.378 519App[4434:a0b] Multi-tasking -> Device: YES, App: YES
+2014-04-15 23:40:09.391 519App[4434:a0b] Unlimited access to network resources
+2014-04-15 23:40:09.686 519App[4434:a0b] Resetting plugins due to page load.
+2014-04-15 23:40:09.749 519App[4434:a0b] Finished load of: file:///Users/jasonpurdy/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AF3C68C8-634E-4674-BF97-964575CC3B05/519App.app/www/index.html
+2014-04-15 23:40:09.788 519App[4434:a0b] Received Event: deviceready
+2014-04-15 23:45:05.013 519App[4621:a0b] Multi-tasking -> Device: YES, App: YES
+2014-04-15 23:45:05.025 519App[4621:a0b] Unlimited access to network resources
+2014-04-15 23:45:05.352 519App[4621:a0b] Resetting plugins due to page load.
+2014-04-15 23:45:05.418 519App[4621:a0b] Finished load of: file:///Users/jasonpurdy/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AF3C68C8-634E-4674-BF97-964575CC3B05/519App.app/www/index.html
+2014-04-15 23:45:05.500 519App[4621:a0b] Received Event: deviceready
+2014-04-15 23:49:38.044 519App[4807:a0b] Multi-tasking -> Device: YES, App: YES
+2014-04-15 23:49:38.058 519App[4807:a0b] Unlimited access to network resources
+2014-04-15 23:49:38.173 519App[4807:a0b] Resetting plugins due to page load.
+2014-04-15 23:49:38.277 519App[4807:a0b] Finished load of: file:///Users/jasonpurdy/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AF3C68C8-634E-4674-BF97-964575CC3B05/519App.app/www/index.html
+2014-04-15 23:49:38.429 519App[4807:a0b] Received Event: deviceready
+2014-04-15 23:49:42.671 519App[4807:a0b] Resetting plugins due to page load.
+2014-04-15 23:49:42.673 519App[4807:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-04-15 23:54:40.789 519App[5145:a0b] Multi-tasking -> Device: YES, App: YES
+2014-04-15 23:54:40.801 519App[5145:a0b] Unlimited access to network resources
+2014-04-15 23:54:40.906 519App[5145:a0b] Resetting plugins due to page load.
+2014-04-15 23:54:41.040 519App[5145:a0b] Finished load of: file:///Users/jasonpurdy/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AF3C68C8-634E-4674-BF97-964575CC3B05/519App.app/www/index.html
+2014-04-15 23:54:41.125 519App[5145:a0b] Received Event: deviceready
+2014-04-15 23:54:47.111 519App[5145:a0b] Resetting plugins due to page load.
+2014-04-15 23:54:47.113 519App[5145:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-04-15 23:55:46.953 519App[5281:a0b] Multi-tasking -> Device: YES, App: YES
+2014-04-15 23:55:46.973 519App[5281:a0b] Unlimited access to network resources
+2014-04-15 23:55:47.226 519App[5281:a0b] Resetting plugins due to page load.
+2014-04-15 23:55:47.309 519App[5281:a0b] Finished load of: file:///Users/jasonpurdy/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AF3C68C8-634E-4674-BF97-964575CC3B05/519App.app/www/index.html
+2014-04-15 23:55:47.380 519App[5281:a0b] Received Event: deviceready
+2014-04-15 23:56:31.220 519App[5281:a0b] Resetting plugins due to page load.
+2014-04-15 23:56:31.221 519App[5281:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-04-15 23:56:33.657 519App[5281:a0b] Resetting plugins due to page load.
+2014-04-15 23:56:33.659 519App[5281:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-04-15 23:58:15.551 519App[5437:a0b] Multi-tasking -> Device: YES, App: YES
+2014-04-15 23:58:15.565 519App[5437:a0b] Unlimited access to network resources
+2014-04-15 23:58:15.853 519App[5437:a0b] Resetting plugins due to page load.
+2014-04-15 23:58:15.945 519App[5437:a0b] Finished load of: file:///Users/jasonpurdy/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AF3C68C8-634E-4674-BF97-964575CC3B05/519App.app/www/index.html
+2014-04-15 23:58:16.003 519App[5437:a0b] Received Event: deviceready
+2014-04-15 23:58:17.383 519App[5437:a0b] Resetting plugins due to page load.
+2014-04-15 23:58:17.392 519App[5437:a0b] Finished load of: file:///Users/jasonpurdy/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AF3C68C8-634E-4674-BF97-964575CC3B05/519App.app/www/blog.html
